@@ -8,8 +8,7 @@
     <img src="https://img.shields.io/badge/MongoDB-red"  />
     <img src="https://img.shields.io/badge/mongoose-blue"  />
     <img src="https://img.shields.io/badge/IndexedDB-purple"  />
-    <img src="https://img.shields.io/badge/nodemon-green" />
-</p>
+  </p>
    
 ## Description
 
