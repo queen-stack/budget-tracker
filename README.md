@@ -18,9 +18,10 @@
   
 💻 Below is a screenshot of the application:
   
-![budget-tracker](screenshot.PNG)
+![budget-tracker](public/asset/budget_application.png)
 
 ## User Story
+
 
 ```
 AS AN avid traveler
